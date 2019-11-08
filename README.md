@@ -4,6 +4,6 @@
 
 # Unit-2
 
-##Code for IoT
+## Code for IoT
 
-###The code for the Accelerometer has been uploaded.  
+### The code for the Accelerometer has been uploaded.  
