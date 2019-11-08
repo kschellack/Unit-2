@@ -4,3 +4,5 @@
 
 # Unit-2
 Code for IoT
+
+The code for the Accelerometer has been uploaded.  
