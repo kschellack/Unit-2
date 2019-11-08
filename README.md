@@ -8,4 +8,4 @@
 
 ### The code for the Accelerometer has been uploaded.  
 
-### A picture of the breadboard is downloaded as IoT_breadboard_3
+### A picture of the breadboard is uploaded as IoT_breadboard_3
